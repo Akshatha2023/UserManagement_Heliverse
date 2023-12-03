@@ -1,0 +1,20 @@
+.cardContainer {
+  background-color: aqua;
+  height: 250px;
+  width: 250px;
+  border-radius: 10px;
+}
+.img {
+  height: 50px;
+  width: 50px;
+}
+.flex {
+  display: flex;
+  height: 50px;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.paraContainer {
+  margin-inline-start: 10px;
+}

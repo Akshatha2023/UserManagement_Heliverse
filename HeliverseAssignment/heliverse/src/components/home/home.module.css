@@ -1,0 +1,32 @@
+.cardContainer {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin: 10px 0;
+  width: 100vw;
+  justify-content: center;
+}
+.pagination {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 20px;
+}
+.pagination button {
+  cursor: pointer;
+}
+.inputField {
+  width: 30vw;
+  height: 30px;
+  outline: none;
+}
+.filterSection {
+  display: flex;
+  gap: 50px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.heading {
+  text-align: center;
+}
